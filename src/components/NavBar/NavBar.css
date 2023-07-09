@@ -15,16 +15,13 @@
 }
 
 .divNavBarLogo{
-    padding: 5px;
-    text-decoration: underline white;
-    font-size: 20px;
+    width: 150px;
 }
 
 .divNavBarProds{
     display: flex;
     flex-direction: row;
     align-items: center;
-
 }
 
 .divNavBarProds li{

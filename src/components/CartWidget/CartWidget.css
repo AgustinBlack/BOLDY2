@@ -2,9 +2,15 @@
     margin: 0;
     padding: 0;
 }
+.divCart{
+    display: flex;
+    align-items: center;
+}
 
-.cartCant{
+
+.divCartCant{
     background-color: black;
     border-radius: 5px;
     padding: 2px;
+    color: white;
 }
