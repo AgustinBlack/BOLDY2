@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.divCard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 100px;
+}
+
+.card{
+    margin: 10px;
+}
+
+.card-img-top{
+    width: 283px;
+    height: 150px;
+}
+
+.botonCard{
+    border-radius: 5px;
+    background-color: #fff;
+    border: none;
+    outline: none;
+    border: 1.3px solid rgb(172, 172, 172);
+    width: 100%;
+    padding: 12px;
+    font-size: 1em;
+    color: rgb(0, 0, 0); 
+}
+
+.botonCard:hover{
+    background-color: rgb(172, 172, 172);
+    color: #fff;
+    transition: 0.5s;
+}
+
+/* PIE DE PAGINA */
+
+.pie__pagina{
+    width: 100%;
+    background-color: rgb(33 37 41);
+    margin-top: 80px;
+}
+
+.grupo__1{
+    width: 100%;
+    max-width: 1200px;
+}
+
+.sobre__nosotros{
+    color: white;
+    padding: 30px;
+}
